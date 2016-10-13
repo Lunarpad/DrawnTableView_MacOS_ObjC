@@ -12,6 +12,8 @@ When we were building the Palette window for [Producer](http://www.getproducer.c
 
 In the end, rather than battling NSTableView or being forced into using the Interface Builder (*shudder…*), we found it to be a lot more time-effective and all around a more pleasant experience to build a hand-drawn table view with Core Graphics. Enter `LPDrawnTableView`, a subclass of `NSScrollView`. 
 
+![DrawnTableView](https://github.com/Lunarpad/DrawnTableView_MacOS_ObjC/raw/master/images/table.png "DrawnTableView")
+
 DrawnTableView is still very young and hasn't seen many integrations yet, but it already supports many table view interactions such as row selection, different mouse interactions, and includes features like section headers, variable cell heights, and totally custom-drawable cells.
 
 You can make it look as similar to MacOS as you like or theme it to your exact design specifications and have your app remain about as performant as your drawing code.
