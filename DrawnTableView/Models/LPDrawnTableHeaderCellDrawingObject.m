@@ -1,6 +1,6 @@
 //
 //  LPDrawnTableHeaderCellDrawingObject.m
-//  Producer
+//  DrawnTableView_MacOS_ObjC
 //
 //  Created by Paul Shapiro on 10/30/14.
 //  Copyright (c) 2014 Lunarpad Corporation. All rights reserved.

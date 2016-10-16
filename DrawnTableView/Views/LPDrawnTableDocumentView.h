@@ -1,6 +1,6 @@
 //
 //  LPDrawnTableDocumentView.h
-//  Producer
+//  DrawnTableView_MacOS_ObjC
 //
 //  Created by Paul Shapiro on 10/29/14.
 //  Copyright (c) 2014 Lunarpad Corporation. All rights reserved.
